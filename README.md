@@ -5,7 +5,6 @@ Has some bugs, but it's reliable most of the time.
 All lyrics are grabbed from MetroLyrics (https://www.metrolyrics.com/).
 
 #### Libraries used:
-* Pandas;
 * pyttsx3;
 * random;
 * requests;

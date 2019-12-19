@@ -1,4 +1,3 @@
-import pandas as pd
 import pyttsx3
 from random import seed
 from random import randint
